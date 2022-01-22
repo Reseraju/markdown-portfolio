@@ -1,1 +1,14 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+### skills
+* **Web Development**
+    * *HTML* 
+    * *CSS*
+    * *Javascript*
+* __Programming Languages__
+    * *Java*
+    * *c* 
+    * *cpp*
+* **soft Skills**
+    * *Public Speaking* 
+    * *Leadership* 
+    * *Presentation* 
+    * *Teamwork and Collaboration*
