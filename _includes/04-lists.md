@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+##### Favorate Places to visit
+* Paris 
+* London 
+  * London Eye 🎡
+  * Buckingham Palace 🏛️
+* Hawaii 🏖️
